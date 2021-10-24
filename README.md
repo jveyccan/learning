@@ -1,1 +1,1 @@
-# study-materials
+# lab-exercises
